@@ -1,6 +1,11 @@
 # About yui
 Yet-another Unicycle Interface - yui
 
+# Youtube
+
+General communication with Matlab: <https://www.youtube.com/watch?v=UxeqtVeoOOI>
+First speed test: <https://www.youtube.com/watch?v=seSP-oLR1t4>
+
 # Sketch
 
 Yui is a unicycle project, probably one of many. Goal is to design a small, two-wheeled robot with as few electronic elements as possible and using only off-the-shelf components. And, of course, link it to Matlab for control.
